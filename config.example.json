@@ -1,0 +1,4 @@
+{
+  "context_root": "/path/to/my-context",
+  "timezone": "Asia/Shanghai"
+}
